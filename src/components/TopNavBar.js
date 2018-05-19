@@ -10,5 +10,3 @@ export class TopNavBar extends React.Component {
         );
     }
 }
-
-export const TEAM_PIC_URL_PREFIX = 'https://stats.nba.com/media/img/teams/logos';
