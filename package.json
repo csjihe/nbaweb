@@ -16,7 +16,8 @@
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "flow": "flow"
+    "flow": "flow",
+    "test": "jest"
   },
   "devDependencies": {
     "babel-preset-flow": "^6.23.0",
